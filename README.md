@@ -8,3 +8,9 @@ GUI Support for creating a subset of AoE3 Random Map
 
 Currently support small subset of RM.
 
+Lang & Packages
+========
+
+* Python
+* Qt
+* PyQt4
